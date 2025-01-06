@@ -1,3 +1,7 @@
+* {
+  padding: 0;
+  margin: 0;
+}
 .images-logo {
   width: 4%;
   border-radius: 50%;
@@ -5,4 +9,73 @@
 .slider {
   width: 100%;
   height: 700px;
+}
+.implant-images {
+  width: 50%;
+}
+.Composite-1-img {
+  width: 450px;
+}
+.Composite-text- {
+  margin-bottom: 3%;
+  font-weight: 900;
+  font-size: 80px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.Composite-text-1 {
+  position: relative;
+
+  top: 5%;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+.Composite-text {
+  position: relative;
+  top: 5%;
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.container {
+  position: relative;
+  top: 5%;
+}
+.Composite-2-img {
+  width: 400px;
+  height: 450px;
+}
+.Composite-text-2 {
+  position: relative;
+  top: 5%;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+.Composite-3-img {
+  display: flexbox;
+  position: relative;
+  top: 5%;
+  margin-left: 8px;
+  margin-right: 8px;
+  width: 260px;
+  height: 400px;
+}
+.Composite-text-3 {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+
+.Composite-imgs {
+  display: flexbox;
+  position: relative;
+  top: 5%;
+  width: 260px;
+  height: 350px;
+  margin-right: 1%;
+  margin-left: 1%;
+}
+.Composite-4 {
+  margin-top: 2%;
 }
