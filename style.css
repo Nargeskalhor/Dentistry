@@ -10,9 +10,58 @@
   width: 100%;
   height: 700px;
 }
+.Our-services {
+  display: flexbox;
+}
 .implant-images {
   width: 50%;
 }
+.imgage1-svg {
+  margin-top: 60%;
+  width: 40px;
+}
+
+.images-svg {
+  margin-top: 60%;
+  width: 50px;
+}
+.composite-svg {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  height: 130px;
+  border: 1px solid rgb(183, 183, 183);
+}
+.ortodensi-svg {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  height: 130px;
+  border: 1px solid rgb(183, 183, 183);
+}
+.belaching-svg {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  height: 130px;
+  border: 1px solid rgb(183, 183, 183);
+}
+.implant-svg {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  height: 130px;
+  border: 1px solid rgb(183, 183, 183);
+}
+.garahi-svg {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  height: 130px;
+  border: 1px solid rgb(183, 183, 183);
+}
+.darman-svg {
+  margin-top: 3%;
+  margin-bottom: 3%;
+  height: 130px;
+  border: 1px solid rgb(183, 183, 183);
+}
+
 .Composite-1-img {
   width: 450px;
 }
@@ -78,4 +127,15 @@
 }
 .Composite-4 {
   margin-top: 2%;
+}
+.about-as {
+  display: flexbox;
+}
+.dental-about {
+  width: 450px;
+  border: 7px solid blue;
+  border-radius: 50px;
+}
+.about-as {
+  display: flexbox;
 }
