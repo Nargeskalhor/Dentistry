@@ -139,3 +139,107 @@
 .about-as {
   display: flexbox;
 }
+.Wisdomteeth-text {
+  font-size: 25px;
+}
+.Wisdomteeth-img {
+  width: 470px;
+}
+.Wisdomteeth-t1 {
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
+.Wisdomteeth-t {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+.Wisdomteeth-img-1 {
+  margin-top: 2%;
+  width: 490px;
+}
+.laminate-t1 {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+.laminate-t {
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
+.laminate-img {
+  width: 500px;
+  height: 500px;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  border: 5px solid rgb(0, 0, 0);
+}
+.laminate-img-1 {
+  width: 420px;
+  border-top-right-radius: 20%;
+
+  height: 550px;
+}
+.laminate-text {
+  font-size: 28px;
+}
+.laminate-image {
+  width: 350px;
+  height: 350px;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border: 4px solid black;
+}
+.Bleaching-text {
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
+.Bleaching-img {
+  width: 510px;
+  height: 510px;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border: 4px solid black;
+}
+.Bleaching-t {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+.implant-text {
+  font-size: 22px;
+  font-family: "Times New Roman", Times, serif;
+}
+.implant-t {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+.implant-img {
+  width: 450px;
+  height: 450px;
+  border-top-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  border: 4px solid black;
+}
+.implant-img1 {
+  width: 410px;
+  height: 360px;
+  border-radius: 40px;
+  border: 4px solid black;
+}
+.implant-images {
+  width: 350px;
+  height: 350px;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  border: 4px solid black;
+}
+.implant-imgs {
+  width: 350px;
+  height: 350px;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+
+  border: 4px solid black;
+}
