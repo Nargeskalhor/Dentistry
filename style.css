@@ -302,3 +302,41 @@ body {
   color: hsl(216, 63%, 40%);
   font-weight: 500;
 }
+.body-2 {
+  height: 600px;
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  backdrop-filter: blur(0.6rem);
+  color: #0f0909;
+  border: 2px solid #4c3838;
+  border-radius: 3rem;
+  width: 500px;
+
+  padding: 1.5rem;
+}
+.img-logo {
+  width: 50px;
+  border-radius: 50%;
+}
+.text-visite {
+  font-weight: 600;
+  font-size: 35px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("/teeth-n-toothpaste.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
+.text-header {
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 500;
+}
